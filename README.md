@@ -62,7 +62,7 @@
             <p><strong>Nome:</strong> Wesley Dourado de Oliveira</p>
             <p><strong>Email:</strong> a30wesleyyy@gmail.com</p>
             <p><strong>Data de Nascimento:</strong> 02/03/1997</p>
-            <img src="https://raw.githubusercontent.com/WesleyDouradoDeOliveira/foto/main/Wesley%20Dourado.jpeg" alt="Foto de Wesley Dourado">
+            <img src="https://raw.githubusercontent.com/WesleyDouradoDeOliveira/foto/main/Wesley%20Dourado.jpeg" alt="Foto de Wesley Dourado" style="max-width: 150px; height: auto; display: block; margin: 20px auto;">
             <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/wesley-dourado-de-oliveira-b83a75223/">Wesley Dourado de Oliveira</a></p>
             <p><strong>GitHub:</strong> <a href="https://github.com/WesleyDouradoDeOliveira">WesleyDouradoDeOliveira</a></p>
         </div>
