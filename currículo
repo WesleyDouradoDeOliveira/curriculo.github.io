@@ -50,6 +50,13 @@
         a:hover {
             text-decoration: underline;
         }
+
+        /* Definindo o tamanho da imagem para dispositivos móveis */
+        @media only screen and (max-width: 600px) {
+            img {
+                max-width: 100%; /* A imagem ocupará 100% da largura do contêiner pai */
+            }
+        }
     </style>
 </head>
 <body>
